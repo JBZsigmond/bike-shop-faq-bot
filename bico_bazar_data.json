@@ -1,0 +1,306 @@
+{
+  "company": {
+    "name": "Bicó-Bazár",
+    "phone": "+36 55 555 0182",
+    "email": "kapcsolat@bico-bazar.example.com"
+  },
+"stores": [
+    {
+      "name": "Budapest - Kitalált utca 12.",
+      "city": "Budapest",
+      "address": "1000 Budapest, Kitalált utca 12.",
+      "opening_hours": {
+        "mon_fri": "09:00-18:00",
+        "sat": "09:00-14:00",
+        "sun": "Closed"
+      },
+      "phone": "+36 55 555 0183",
+      "services": [
+        "delivery",
+        "warranty",
+        "returns",
+      ]
+    },
+    {
+      "name": "Debrecen - Kerekező köz 8.",
+      "city": "Debrecen",
+      "address": "4000 Debrecen, Kerekező köz 8.",
+      "opening_hours": {
+        "mon_fri": "08:30-17:30",
+        "sat": "09:00-13:00",
+        "sun": "10:00-14:00"
+      },
+      "phone": "+36 55 555 0184",
+      "services": [
+        "delivery",
+        "warranty",
+        "returns",
+        "repair_services"
+      ]
+    },
+    {
+      "name": "Szeged - Pedál tér 5.",
+      "city": "Szeged",
+      "address": "6000 Szeged, Pedál tér 5.",
+      "opening_hours": {
+        "mon_fri": "08:00-12:00, 13:00-18:00",
+        "sat": "09:00-15:00",
+        "sun": "10:00-14:00"
+      },
+      "phone": "+36 55 555 0185",
+      "services": [
+        "delivery",
+        "warranty",
+        "returns",
+        "repair_services"
+      ]
+    },
+    {
+      "name": "Pécs - Lánckerék utca 21.",
+      "city": "Pécs",
+      "address": "7000 Pécs, Lánckerék utca 21.",
+      "opening_hours": {
+        "mon_fri": "10:00-19:00",
+        "sat": "10:00-16:00",
+        "sun": "10:00-13:00"
+      },
+      "phone": "+36 55 555 0186",
+      "services": [
+        "delivery",
+        "warranty",
+        "returns",
+        "repair_services"
+      ]
+    }
+  ]
+  "products": [
+    {
+      "name": "Bicó City Classic 28",
+      "category": "City bike",
+      "price_huf": 89900,
+      "availability": [
+        "Budapest",
+        "Debrecen",
+        "Szeged"
+      ]
+    },
+    {
+      "name": "Bicó Urban Comfort 26",
+      "category": "City bike",
+      "price_huf": 74900,
+      "availability": [
+        "Budapest",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bazár Trekker 28",
+      "category": "Trekking bike",
+      "price_huf": 129900,
+      "availability": [
+        "Budapest",
+        "Debrecen",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bicó Road Sprint 700",
+      "category": "Road bike",
+      "price_huf": 219900,
+      "availability": [
+        "Budapest",
+        "Szeged"
+      ]
+    },
+    {
+      "name": "Bazár AeroRide 500",
+      "category": "Road bike",
+      "price_huf": 289900,
+      "availability": [
+        "Debrecen",
+        "Szeged",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bicó Mountain Pro 29",
+      "category": "Mountain bike",
+      "price_huf": 189900,
+      "availability": [
+        "Budapest",
+        "Debrecen",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bazár TrailX 27.5",
+      "category": "Mountain bike",
+      "price_huf": 159900,
+      "availability": [
+        "Budapest",
+        "Szeged"
+      ]
+    },
+    {
+      "name": "Bicó Forest Junior 24",
+      "category": "Kids bike",
+      "price_huf": 64900,
+      "availability": [
+        "Budapest",
+        "Debrecen",
+        "Szeged"
+      ]
+    },
+    {
+      "name": "Bazár MiniPedál 20",
+      "category": "Kids bike",
+      "price_huf": 49900,
+      "availability": [
+        "Budapest",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bicó Tiny Rider 16",
+      "category": "Kids bike",
+      "price_huf": 39900,
+      "availability": [
+        "Debrecen",
+        "Szeged",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bicó E-City 250",
+      "category": "E-bike",
+      "price_huf": 399900,
+      "availability": [
+        "Budapest",
+        "Debrecen"
+      ]
+    },
+    {
+      "name": "Bazár E-Trekker 500",
+      "category": "E-bike",
+      "price_huf": 529900,
+      "availability": [
+        "Budapest",
+        "Szeged",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bicó E-Mountain 750",
+      "category": "E-bike",
+      "price_huf": 649900,
+      "availability": [
+        "Debrecen",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bazár Fold-E Compact",
+      "category": "E-bike",
+      "price_huf": 359900,
+      "availability": [
+        "Budapest",
+        "Szeged"
+      ]
+    },
+    {
+      "name": "Bicó Urban Helmet",
+      "category": "Accessory",
+      "price_huf": 12900,
+      "availability": [
+        "Budapest",
+        "Debrecen",
+        "Szeged",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bazár LED Light Set",
+      "category": "Accessory",
+      "price_huf": 5490,
+      "availability": [
+        "Budapest",
+        "Debrecen",
+        "Szeged",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bicó SecureLock 900",
+      "category": "Accessory",
+      "price_huf": 8990,
+      "availability": [
+        "Budapest",
+        "Debrecen",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bazár Comfort Gel Saddle",
+      "category": "Accessory",
+      "price_huf": 7490,
+      "availability": [
+        "Budapest",
+        "Szeged",
+        "Pécs"
+      ]
+    },
+    {
+      "name": "Bicó AllWeather Pannier",
+      "category": "Accessory",
+      "price_huf": 14900,
+      "availability": [
+        "Budapest",
+        "Debrecen",
+        "Szeged"
+      ]
+    },
+    {
+      "name": "Bazár Repair Kit Mini",
+      "category": "Accessory",
+      "price_huf": 2990,
+      "availability": [
+        "Budapest",
+        "Debrecen",
+        "Szeged",
+        "Pécs"
+      ]
+    }
+  ],
+  "policies": {
+    "delivery": "Ingyenes kiszállítás 50 000 HUF feletti rendelés esetén; alatta 1 990 HUF.",
+    "warranty": "Kerékpárokra 24 hónap, tartozékokra 12 hónap garancia, a jogszabályoknak megfelelően.",
+    "returns": "Online vásárlás esetén 14 napon belül indoklás nélküli elállás a vonatkozó jogszabályok szerint.",
+    "repair_services": [
+      {
+        "service": "Alapvető kerékpár-átvizsgálás",
+        "price_huf": 4990,
+        "note": null
+      },
+      {
+        "service": "Defektjavítás",
+        "price_from_huf": 2990,
+        "note": "az alkatrészek árán felül"
+      },
+      {
+        "service": "Fékbeállítás",
+        "price_huf": 3490,
+        "note": null
+      },
+      {
+        "service": "Váltóbeállítás",
+        "price_huf": 3990,
+        "note": null
+      },
+      {
+        "service": "Teljes szerviz",
+        "price_from_huf": 14900,
+        "note": "az esetleges alkatrészek árán felül"
+      }
+    ]
+  }
+}
