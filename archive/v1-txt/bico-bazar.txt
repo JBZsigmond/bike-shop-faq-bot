@@ -1,0 +1,44 @@
+COMPANY: Bicó-Bazár, +36 70 555 0182, kapcsolat@bico-bazar.example.com
+
+STORE: Budapest - Kitalált utca 12.
+Address: 1000 Budapest, Kitalált utca 12. / Opening hours: Mon-Fri 09:00-18:00, Sat 09:00-14:00, Sun Closed / Phone: +36 70 555 0183
+
+STORE: Debrecen - Kerekező köz 8.
+Address: 4000 Debrecen, Kerekező köz 8. / Opening hours: Mon-Fri 08:30-17:30, Sat 09:00-13:00, Sun 10:00-14:00 / Phone: +36 70 555 0184
+
+STORE: Szeged - Pedál tér 5.
+Address: 6000 Szeged, Pedál tér 5. / Opening hours: Mon-Fri 08:00-12:00, 13:00-18:00, Sat 09:00-15:00, Sun 10:00-14:00 / Phone: +36 70 555 0185
+
+STORE: Pécs - Lánckerék utca 21.
+Address: 7000 Pécs, Lánckerék utca 21. / Opening hours: Mon-Fri 10:00-19:00, Sat 10:00-16:00, Sun 10:00-13:00 / Phone: +36 70 555 0186
+
+PRODUCTS:
+Bicó City Classic 28 | City bike | 89 900 HUF | Budapest, Debrecen, Szeged
+Bicó Urban Comfort 26 | City bike | 74 900 HUF | Budapest, Pécs
+Bazár Trekker 28 | Trekking bike | 129 900 HUF | Budapest, Debrecen, Pécs
+Bicó Road Sprint 700 | Road bike | 219 900 HUF | Budapest, Szeged
+Bazár AeroRide 500 | Road bike | 289 900 HUF | Debrecen, Szeged, Pécs
+Bicó Mountain Pro 29 | Mountain bike | 189 900 HUF | Budapest, Debrecen, Pécs
+Bazár TrailX 27.5 | Mountain bike | 159 900 HUF | Budapest, Szeged
+Bicó Forest Junior 24 | Kids bike | 64 900 HUF | Budapest, Debrecen, Szeged
+Bazár MiniPedál 20 | Kids bike | 49 900 HUF | Budapest, Pécs
+Bicó Tiny Rider 16 | Kids bike | 39 900 HUF | Debrecen, Szeged, Pécs
+Bicó E-City 250 | E-bike | 399 900 HUF | Budapest, Debrecen
+Bazár E-Trekker 500 | E-bike | 529 900 HUF | Budapest, Szeged, Pécs
+Bicó E-Mountain 750 | E-bike | 649 900 HUF | Debrecen, Pécs
+Bazár Fold-E Compact | E-bike | 359 900 HUF | Budapest, Szeged
+Bicó Urban Helmet | Accessory | 12 900 HUF | Budapest, Debrecen, Szeged, Pécs
+Bazár LED Light Set | Accessory | 5 490 HUF | Budapest, Debrecen, Szeged, Pécs
+Bicó SecureLock 900 | Accessory | 8 990 HUF | Budapest, Debrecen, Pécs
+Bazár Comfort Gel Saddle | Accessory | 7 490 HUF | Budapest, Szeged, Pécs
+Bicó AllWeather Pannier | Accessory | 14 900 HUF | Budapest, Debrecen, Szeged
+Bazár Repair Kit Mini | Accessory | 2 990 HUF | Budapest, Debrecen, Szeged, Pécs
+
+POLICIES:
+Delivery: Ingyenes kiszállítás 50 000 HUF feletti rendelés esetén; alatta 1 990 HUF.
+Warranty: Kerékpárokra 24 hónap, tartozékokra 12 hónap garancia, a jogszabályoknak megfelelően.
+Returns: Online vásárlás esetén 14 napon belül indoklás nélküli elállás a vonatkozó jogszabályok szerint.
+Repair: Alapvető kerékpár-átvizsgálás 4 990 HUF.
+Repair: Defektjavítás 2 990 HUF-tól, az alkatrészek árán felül.
+Repair: Fékbeállítás 3 490 HUF, váltóbeállítás 3 990 HUF.
+Repair: Teljes szerviz 14 900 HUF-tól, az esetleges alkatrészek árán felül.
